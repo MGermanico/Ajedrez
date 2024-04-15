@@ -8,6 +8,6 @@ package utils.specific;
  *
  * @author dev
  */
-public class ChessUtils {
+public class MenuBuilderUtils {
     
 }

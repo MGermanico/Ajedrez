@@ -6,7 +6,7 @@ package utils.specific.chessUtils;
 
 /**
  *
- * @author migue
+ * @author dev
  */
 public class Other {
     
