@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T23:57:10.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="14THXL7MdZNUgmP8J06g" version="24.2.8" type="device" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-25T12:03:31.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2eo_8M8D0c47AfzvHnUc" version="24.2.8" type="device" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="classDiagram">
-    <mxGraphModel dx="2931" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3193" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -850,7 +850,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="i2fgAkUUHuLNmjytPovy" name="activitiesDiagram">
-    <mxGraphModel dx="2049" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1268,7 +1268,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9zQFu80kGJQvQ1QVUPdI" name="csvTemplate">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1324,7 +1324,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WmAMSSQeWiYG-CgJ_C3n" name="branchDiagram">
-    <mxGraphModel dx="1434" dy="7794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="7989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1371,7 +1371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uPfvSSSw7EVhwlTO7Xam-15" value="&lt;div&gt;README.md&lt;/div&gt;Diagrams(folder)&lt;div&gt;chessGame(maven proyect)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="400" y="440" width="160" height="160" as="geometry" />
+          <mxGeometry x="399.52" y="440" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PuT6__tbyxfzze5_OLkV-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" target="uPfvSSSw7EVhwlTO7Xam-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1778,7 +1778,7 @@
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1ctfTeedLKSRKWYtvgBG-14" value="&lt;div&gt;Void.java:class DONE&lt;/div&gt;&lt;div&gt;Board.java:class DONE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1ctfTeedLKSRKWYtvgBG-33" vertex="1">
+        <mxCell id="1ctfTeedLKSRKWYtvgBG-14" value="&lt;div&gt;Void.java:class DONE&lt;/div&gt;&lt;div&gt;Board.java:class DONE&lt;/div&gt;&lt;div&gt;NormalBoard.txt:text DONE&lt;/div&gt;&lt;div&gt;OnlyPawns.txt:text DONE&lt;br&gt;&lt;/div&gt;&lt;div&gt;SavedGames.txt:text DONE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1ctfTeedLKSRKWYtvgBG-33" vertex="1">
           <mxGeometry x="120" y="120" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1ctfTeedLKSRKWYtvgBG-15" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;fillColor=#d80073;strokeColor=#FF9EBB;" parent="1ctfTeedLKSRKWYtvgBG-33" edge="1">
